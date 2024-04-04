@@ -668,7 +668,7 @@ class AnimatedLabel extends StatelessWidget {
                 border: Border.all(color: debugBorderColor),
               )
             : null,
-        width: size.width,
+        width: 300,
         height: size.height,
         child: Stack(
           clipBehavior: Clip.antiAlias,
